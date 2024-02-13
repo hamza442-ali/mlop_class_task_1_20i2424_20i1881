@@ -1,5 +1,6 @@
 # mlop_class_task_1_20i2424_20i1881
 <<<<<<< HEAD
+<<<<<<< HEAD
  git clone https://github.com/hamza442-ali/mlop_class_task_1_20i2424_20i1881.git
  ![alt text](image.png)
 
@@ -13,6 +14,8 @@
   git push 
   ![alt text](image-3.png)
 =======
+=======
+>>>>>>> 828d163a564ba7d63604928332a54985079be7d3
 
 
 
@@ -33,4 +36,7 @@
 ![Alt text](image.png)
 ![Alt text](image-1.png)
 ![Alt text](image-2.png)
+<<<<<<< HEAD
+>>>>>>> 828d163a564ba7d63604928332a54985079be7d3
+=======
 >>>>>>> 828d163a564ba7d63604928332a54985079be7d3
